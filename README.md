@@ -8,7 +8,7 @@ const Jorge = {
     technologies: {
         frontEnd: {
             js: ["Angular"],
-            css: ["bootstrap", ]
+            css: ["bootstrap"]
         },
         backEnd: ["Java", "PHP","Node"],
         databases: ["MySql", "oracle""MsSql","MongoDB"],
