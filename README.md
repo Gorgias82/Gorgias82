@@ -1,6 +1,6 @@
 ## Full Stack Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-Jorge-blue)](https://www.linkedin.com/in/jorge-vicente-ramiro-0b37041a3/))
+[![](https://img.shields.io/badge/LinkedIn-Jorge-blue)](https://www.linkedin.com/in/jorge-vicente-ramiro-0b37041a3/)
 
 ```javascript
 const Jorge = {
