@@ -8,10 +8,10 @@ const Jorge = {
     technologies: {
         frontEnd: {
             js: ["Angular"],
-            css: ["bootstrap"]
+            css: ["Bootstrap"]
         },
-        backEnd: ["Java", "PHP","Node"],
-        databases: ["MySql", "oracle""MsSql","MongoDB"],
+        backEnd: ["Java", "PHP", "Node"],
+        databases: ["MySql", "Oracle", "MsSql", "MongoDB"]
     }
 };
 ```
