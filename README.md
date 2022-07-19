@@ -10,7 +10,7 @@ const Jorge = {
             js: ["Angular"],
             css: ["Bootstrap"]
         },
-        backEnd: ["Java", "PHP", "Node"],
+        backEnd: ["Java", "PHP", "Node","ASPNET Core"],
         databases: ["MySql", "Oracle", "MsSql", "MongoDB"]
     }
 };
